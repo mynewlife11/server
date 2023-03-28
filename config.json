@@ -1,0 +1,35 @@
+{
+  "number": 10,
+  "symbol": "CRAB",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "Ehsm8oud6QRoDrZb7HCuqb6CoVfuywpKjWJfra4GLeJT",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "botTax": {
+        "value": 0.01,
+        "lastInstruction": true
+      },
+      "startDate": {
+        "date": "2022-10-20 18:00:00 +0000"
+      },
+      "solPayment": {
+        "value": 0.05,
+        "destination": "Ehsm8oud6QRoDrZb7HCuqb6CoVfuywpKjWJfra4GLeJT"
+      }
+    },
+    "groups": null
+  }
+}
